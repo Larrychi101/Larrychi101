@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lawrence
 - 👀 I’m interested in cloud computing
 - 🌱 I’m currently learning cloud computing
-- 💞️ I’m looking to collaborate on IBM skill network
+- 💞️ I’m looking to collaborate with Independent Software Vendors
 - 📫 How to reach me lawrence@sologid.com
 
 <!---
